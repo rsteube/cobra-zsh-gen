@@ -1,3 +1,5 @@
+> _continued in https://github.com/rsteube/carapace_
+
 # cobra-zsh-gen
 
 [![CircleCI](https://circleci.com/gh/rsteube/cobra-zsh-gen.svg?style=svg)](https://circleci.com/gh/rsteube/cobra-zsh-gen)
